@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Aug 23 20:59:33 IST 2023
+org.eclipse.jst.jee.server\:LaptopAssignment=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\LaptopAssignment
+org.eclipse.jst.jee.server\:JustDisplay1=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\JustDisplay1
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\LaptopAssignment\\WEB-INF\\lib\\spring-web-5.1.1.RELEASE.jar
